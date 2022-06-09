@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = 'kok05i14ptb-a$25yw^%ibjw!veuu@(kn0)gw8fb$6w+5cx4=7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'mushrooms-class.herokuapp.com']
 
